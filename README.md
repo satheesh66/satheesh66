@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Software Engineer currently working on frontend technolgies
+#### I am Software Engineer currently working on frontend technolgies
 
 - Javascript
 - React
