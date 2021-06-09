@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Software Engineer currently working on frontend technolgies
+
+- Javascript
+- React
+- Nodejs
+
 <!--
 **satheesh66/satheesh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
