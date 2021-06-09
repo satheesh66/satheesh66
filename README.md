@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I am Software Engineer currently working on frontend technolgies
+I am Software Engineer @Kissflow 
 
-- Javascript
-- React
-- Nodejs
+### Currently working stack
+
+- *Javascript*
+- *React*
+- *Nodejs*
+- *Python*
 
 <!--
 **satheesh66/satheesh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
