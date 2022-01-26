@@ -4,7 +4,9 @@
 
 ### Currently working stack
 
+- *Webpack*
 - *Javascript*
+- *Typescript*
 - *React*
 - *Nodejs*
 - *Python*
