@@ -4,8 +4,12 @@
 
 ### Currently working stack
 
-- *Webpack*
 - *Javascript*
+- *Webpack*
+- *Module federation*
+- *HTML*
+- *CSS*
+- *Tanstack query (React query)*
 - *Typescript*
 - *React*
 - *Nodejs*
